@@ -1,0 +1,17 @@
+Sort Algorithms:
+
+1) Quick sort
+
+2) Bubble sort
+
+3) Merge sort
+
+4) Insertion sort
+
+5) selection sort
+
+6) Heap sort
+
+7) Radix sort
+
+8) Bucket sort
